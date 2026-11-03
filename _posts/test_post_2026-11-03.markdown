@@ -1,0 +1,7 @@
+:label: jekyll-test-post
+---
+layout: post
+title: Testing
+author: Isabelle Kinney
+---
+This page is a test page for the test Jekyll static site. Please come back later for more interesting content.
